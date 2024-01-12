@@ -15,10 +15,10 @@ class User{
 List usersChats = [
   User('assets/images/img_image.png', 'Waqas Muhammad', 'what are you saying?','11;00 AM'),
   User('assets/images/img_image_haris.png', 'Haris', 'chakka kawayu', '12:22 PM'),
-  User('assets/images/img_image_waqar.png', 'Waqar Ahmad', 'program sa treka da?', '02:13 PM'),
-  User('assets/images/img_image_razaq.png', 'Abdur Razzaq', 'cheta ye?', '4;54 PM'),
-  User('assets/images/img_image_anas.png', 'Muhammad Anas', 'What do you do?', '01:22 PM'),
-  User('assets/images/img_image_hasnain.png', 'Muhammad Hasnain', 'What are you doing?', '07:02'),
+  // User('assets/images/img_image_waqar.png', 'Waqar Ahmad', 'program sa treka da?', '02:13 PM'),
+  // User('assets/images/img_image_razaq.png', 'Abdur Razzaq', 'cheta ye?', '4;54 PM'),
+  // User('assets/images/img_image_anas.png', 'Muhammad Anas', 'What do you do?', '01:22 PM'),
+  // User('assets/images/img_image_hasnain.png', 'Muhammad Hasnain', 'What are you doing?', '07:02'),
 ];
 
 ///<<<<<========Status List=========>>>>>>>>>>>
